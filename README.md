@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIKHITH R</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Tech enthusiast and passionate developer</h3>
 
 <p align="left"> <a href="https://twitter.com/liki" target="blank"><img src="https://img.shields.io/twitter/follow/liki?logo=twitter&style=for-the-badge" alt="liki" /></a> </p>
 
