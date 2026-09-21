@@ -23,7 +23,7 @@
 
 .Email:             likhi302004@gmail.com
 .GitHub:            github.com/mr-liki
-.LinkedIn:          linkedin.com/in/your-handle
+.LinkedIn:          linkedin.com/in/likithr
 
 <b>- GitHub Stats</b> ----------------------------
 
