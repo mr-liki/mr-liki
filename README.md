@@ -1,21 +1,37 @@
-<h1 align="center">Hi 👋, I'm LIKHITH R</h1>
-<h3 align="center">Building AI agents & GenAI tools | AI/ML Engineer</h3>
+<table>
+<tr>
+<td width="360" valign="top">
+  <img src="https://raw.githubusercontent.com/mr-liki/mr-liki/main/liki-ascii.png" width="340">
+</td>
+<td valign="top">
 
-<p align="left"> <a href="https://twitter.com/liki" target="blank"><img src="https://img.shields.io/twitter/follow/liki?logo=twitter&style=for-the-badge" alt="liki" /></a> </p>
+<pre>
+<b>likhith@github</b> ------------------------------
 
-- 📫 How to reach me **likhi302004@gmail.com**
+.Role:              AI/ML Engineer
+.Focus:             GenAI Agents, LLM Systems
+.Based:             Bengaluru, India
+.Prev. Internship:  AI/ML @ Nakshatech (Geospatial, LiDAR)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/liki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/likhith r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhith r" height="30" width="40" /></a>
-</p>
+<b>- Stack</b> -----------------------------------
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+.Languages:         Python, Java, JavaScript, C/C++
+.Web:               HTML5, CSS
+.Tools:             Git, VS Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-liki&show_icons=true&locale=en&layout=compact" alt="mr-liki" /></p>
+<b>- Contact</b> ---------------------------------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-liki&show_icons=true&locale=en" alt="mr-liki" /></p>
+.Email:             likhi302004@gmail.com
+.GitHub:            github.com/mr-liki
+.LinkedIn:          linkedin.com/in/your-handle
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-liki&" alt="mr-liki" /></p>
+<b>- GitHub Stats</b> ----------------------------
+
+.Repos:             21
+.Total Contributions: 198
+.Longest Streak:    5 days
+</pre>
+
+</td>
+</tr>
+</table>
