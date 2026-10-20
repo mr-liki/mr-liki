@@ -29,7 +29,6 @@
 
 .Repos:             21
 .Total Contributions: 198
-.Longest Streak:    5 days
 </pre>
 
 </td>
